@@ -2,7 +2,7 @@
 T2TRG summary meeting at IETF 107, March 2020 in Vancouver
 
 Currently scheduled on the [IETF main agenda][] for March 25, 2020,
-1000-1200, Room Regency F
+1000-1200, Room Georgia B
 
 [IETF main agenda]: https://datatracker.ietf.org/meeting/agenda
 
