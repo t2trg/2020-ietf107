@@ -24,7 +24,7 @@ Please contact the [chairs][] for any changes required.
 | 10:45 | Lars Eggert     | Towards Securing the Internet of Things with QUIC                                   | [NDSS paper][quic-iot]                      |
 | 11:15 | Mohit Sethi     | Bootstrapping terminology                                                           | TBD                                         |
 | 11:30 | Tiru Reddy      | MUD (D)TLS profiles for IoT devices                                                 | [draft-reddy-opsawg-mud-tls][mud-tls]       |
-| 11:40 | TBD             | IoT Edge Challenges and Functions                                                   | [draft-hong-t2trg-iot-edge-computing][edge] |
+| 11:40 | Jungha Hong     | IoT Edge Challenges and Functions                                                   | [draft-hong-t2trg-iot-edge-computing][edge] |
 | 11:55 | Chairs          | Wrap-up                                                                             |                                             |
 | 12:00 |                 | end of meeting                                                                      |                                             |
 
