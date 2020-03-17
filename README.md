@@ -51,9 +51,9 @@ Please contact the [chairs][] for any changes required.
 [mud-tls]: https://tools.ietf.org/html/draft-reddy-opsawg-mud-tls
 [pre107onedm]: https://github.com/t2trg/2020-03-vancouver
 
-## Other T2TRG activities at IETF 107
+## Other T2TRG activities
 
-* Fri 2020-03-20 [T2TRG OneDM workshop (Friday before IETF)][pre107onedm]
+* Fri 2020-03-20 [T2TRG OneDM workshop (Friday before the IETF week)][pre107onedm]
 * Due to the cancellation of the IETF 107 hackathon, this time there is no WISHI hackathon either
 
 [WISHI-hackathon]: https://github.com/t2trg/wishi/wiki/Preparation:-Hackathon-Planning
