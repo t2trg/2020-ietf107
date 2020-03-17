@@ -1,6 +1,21 @@
 # 2020-ietf107
 
-**Update:** We are currently re-scheduling the T2TRG meeting. New time to be announced shortly. 
+T2TRG virtual summary meeting 
+
+**Time:** Tuesday, April 14th, 13:00-15:00 UTC
+
+## Logistics
+
+Join webex: https://ietf.webex.com/ietf/j.php?MTID=m143a4da698109eafb1c8f1b708cf5983
+
+* Meeting number (access code): 649 040 472
+* Meeting password: constrained
+
+* 1-877-668-4493 Call-in toll free number (US/Canada)
+* 1-650-479-3208 Call-in toll number (US/Canada)
+* Join from a video system or application: 649040472@ietf.webex.com
+* Join using Microsoft Lync or Microsoft Skype for Business: 649040472.ietf@lync.webex.com
+
 
 ## Materials
 
