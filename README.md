@@ -29,15 +29,15 @@ Please contact the [chairs][] for any changes required.
 
 |  Time | Who             | Subject                                                                             | Docs                                        |
 | ----- | --------------- | ----------------------------------------------------------------------------------- | ------------------------------------------- |
-| 10:00 | Chairs          | Intro, RG status, upcoming meetings and activities                                  | [draft-irtf-t2trg-rest-iot][restiot]        |
-| 10:05 | Chairs, various | Reports from [WISHI][], [Pre-IETF OneDM workshop][pre107onedm], [WISHI-hackathon][] |                                             |
-| 10:20 | Carsten Bormann | OneDM update and tutorial                                                           |                                             |
-| 10:45 | Lars Eggert     | Towards Securing the Internet of Things with QUIC                                   | [NDSS paper][quic-iot]                      |
-| 11:15 | Mohit Sethi     | Bootstrapping terminology                                                           | TBD                                         |
-| 11:30 | Tiru Reddy      | MUD (D)TLS profiles for IoT devices                                                 | [draft-reddy-opsawg-mud-tls][mud-tls]       |
-| 11:40 | Jungha Hong     | IoT Edge Challenges and Functions                                                   | [draft-hong-t2trg-iot-edge-computing][edge] |
-| 11:55 | Chairs          | Wrap-up                                                                             |                                             |
-| 12:00 |                 | end of meeting                                                                      |                                             |
+| 13:00 | Chairs          | Intro, RG status, upcoming meetings and activities                                  | [draft-irtf-t2trg-rest-iot][restiot]        |
+| 13:05 | Chairs, various | Reports from [WISHI][], [Pre-IETF OneDM workshop][pre107onedm], [WISHI-hackathon][] |                                             |
+| 13:20 | Carsten Bormann | OneDM update and tutorial                                                           |                                             |
+| 13:45 | Lars Eggert     | Towards Securing the Internet of Things with QUIC                                   | [NDSS paper][quic-iot]                      |
+| 14:15 | Mohit Sethi     | Bootstrapping terminology                                                           | TBD                                         |
+| 14:30 | Tiru Reddy      | MUD (D)TLS profiles for IoT devices                                                 | [draft-reddy-opsawg-mud-tls][mud-tls]       |
+| 14:40 | Xavier de Foy   | IoT Edge Challenges and Functions                                                   | [draft-hong-t2trg-iot-edge-computing][edge] |
+| 14:55 | Chairs          | Wrap-up                                                                             |                                             |
+| 15:00 |                 | end of meeting                                                                      |                                             |
 
 [WISHI]: https://github.com/t2trg/wishi/wiki/Agenda-items
 [restiot]: https://tools.ietf.org/html/draft-irtf-t2trg-rest-iot
