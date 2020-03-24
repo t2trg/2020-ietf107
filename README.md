@@ -33,7 +33,7 @@ Please contact the [chairs][] for any changes required.
 | 13:05 | Chairs, various | Reports from [WISHI][], [Pre-IETF OneDM workshop][pre107onedm], [WISHI-hackathon][] |                                             |
 | 13:20 | Carsten Bormann | OneDM update and tutorial                                                           |                                             |
 | 13:45 | Lars Eggert     | Towards Securing the Internet of Things with QUIC                                   | [NDSS paper][quic-iot]                      |
-| 14:15 | Mohit Sethi     | Bootstrapping terminology                                                           | TBD                                         |
+| 14:15 | Mohit Sethi     | Bootstrapping terminology                                                           | [draft-sarikaya-t2trg-sbootstrapping][boot]                                         |
 | 14:30 | Tiru Reddy      | MUD (D)TLS profiles for IoT devices                                                 | [draft-reddy-opsawg-mud-tls][mud-tls]       |
 | 14:40 | Xavier de Foy   | IoT Edge Challenges and Functions                                                   | [draft-hong-t2trg-iot-edge-computing][edge] |
 | 14:55 | Chairs          | Wrap-up                                                                             |                                             |
@@ -50,6 +50,7 @@ Please contact the [chairs][] for any changes required.
 [quic-iot]: https://eggert.org/papers/2020-ndss-quic-iot.pdf
 [mud-tls]: https://tools.ietf.org/html/draft-reddy-opsawg-mud-tls
 [pre107onedm]: https://github.com/t2trg/2020-03-vancouver
+[boot]: https://tools.ietf.org/html/draft-sarikaya-t2trg-sbootstrapping-08
 
 ## Other T2TRG activities
 
