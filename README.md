@@ -4,6 +4,8 @@ T2TRG virtual summary meeting
 
 **Time:** Tuesday, April 14th, 13:00-15:00 UTC
 
+Local time in various locations: https://www.timeanddate.com/worldclock/fixedtime.html?msg=T2TRG+Summary+Meeting&iso=20200414T13&p1=%3A&ah=2
+
 ## Logistics
 
 Join webex: https://ietf.webex.com/ietf/j.php?MTID=m143a4da698109eafb1c8f1b708cf5983
