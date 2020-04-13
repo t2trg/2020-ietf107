@@ -57,5 +57,5 @@ Please contact the [chairs][] for any changes required.
 * Fri 2020-03-20 [T2TRG OneDM workshop (Friday before the IETF week)][pre107onedm]
 * Due to the cancellation of the IETF 107 hackathon, the WISHI hackathon was held [on-line on April 9th](https://github.com/t2trg/2020-04-wishi-onedm-hack)
 
-[WISHI-hackathon]: https://github.com/t2trg/wishi/wiki/Preparation:-Hackathon-Planning
+[WISHI-hackathon]: https://github.com/t2trg/2020-04-wishi-onedm-hack
 [Hackathon]: https://trac.ietf.org/trac/ietf/meeting/wiki/107hackathon#ProjectsIncludedinHackathonaddyourprojectusingthetemplateprovidedatendofprojectlist
