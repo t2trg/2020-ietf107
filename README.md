@@ -21,7 +21,7 @@ Join webex: https://ietf.webex.com/ietf/j.php?MTID=m143a4da698109eafb1c8f1b708cf
 
 Slides: <https://github.com/t2trg/2020-ietf107/tree/master/slides> 
 
-Notes: <https://etherpad.tools.ietf.org/p/notes-irtf-107-t2trg>
+Notes: <https://etherpad.ietf.org/p/notes-irtf-107-t2trg>
 
 ## Draft agenda
 
