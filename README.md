@@ -32,7 +32,7 @@ Please contact the [chairs][] for any changes required.
 |  Time | Who             | Subject                                                                             | Docs                                        |
 | ----- | --------------- | ----------------------------------------------------------------------------------- | ------------------------------------------- |
 | 13:00 | Chairs          | Intro, RG status, upcoming meetings and activities                                  | [draft-irtf-t2trg-rest-iot][restiot]        |
-| 13:05 | Chairs, various | Reports from [WISHI][], [Pre-IETF OneDM workshop][pre107onedm], [WISHI-hackathon][] |                                             |
+| 13:05 | Chairs, various | Reports from [WISHI][], [Pre-IETF OneDM workshop][pre107onedm], [WISHI-hackathon][], W3C WoT |                                             |
 | 13:20 | Carsten Bormann | OneDM update and tutorial                                                           |                                             |
 | 13:45 | Lars Eggert     | Towards Securing the Internet of Things with QUIC                                   | [NDSS paper][quic-iot]                      |
 | 14:15 | Mohit Sethi     | Bootstrapping terminology                                                           | [draft-sarikaya-t2trg-sbootstrapping][boot]                                         |
